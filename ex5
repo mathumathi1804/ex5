@@ -1,0 +1,28 @@
+                      EXPERIMENT 5
+
+2: write a python program to convert hours into minutes
+
+ 
+
+OUTPUT:
+ 
+
+1: return the full name of the person
+
+ 
+Output:
+1.	 
+                                      
+ 
+Output:
+ 
+
+2:
+list1=[10,20,4,45,99]
+list1.sort()
+print("smallest element is:",min(list1))
+
+output:
+smallest element is: 4
+>>>
+	
